@@ -1,0 +1,8 @@
+city:Lviv
+
+name:Tomas
+age:19
+name:Olga
+age:19
+city:Vinnytsia
+

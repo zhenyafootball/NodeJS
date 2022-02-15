@@ -1,0 +1,8 @@
+name:Karl
+age:22
+name:Oleh
+city:Lviv
+age:15
+
+city:Kyiv
+
