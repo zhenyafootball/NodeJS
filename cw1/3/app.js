@@ -8,13 +8,13 @@ fs.mkdir(path.join(__dirname, 'main', 'main1'), err => {
         throw err
     }
 
-    fs.writeFile(path.join(__dirname, 'main', 'text1.txt'), 'text file1', err => {
+    fs.writeFile(path.join(__dirname, 'main', 'file1.txt'), 'text file1', err => {
         if (err) {
             console.log(err)
             throw err
         }
 
-        fs.writeFile(path.join(__dirname, 'main', 'text2.txt'), 'text file2', err => {
+        fs.writeFile(path.join(__dirname, 'main', 'file2.txt'), 'text file2', err => {
             if (err) {
                 console.log(err)
                 throw err
